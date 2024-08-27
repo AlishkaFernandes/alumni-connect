@@ -38,4 +38,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: roydendsouza3108/alumni-connect:latest
+          tags: alishkafernandes/alumni-connect:latest
